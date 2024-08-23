@@ -1,4 +1,4 @@
-# Implementing-Translator-from-
+# Implementing-Translator-from-Scratch
 
  This project presents the implementation of a Machine Translation system, named ”Implementing
  Translator from Scratch”, for translating English sentences to Hindi. Leveraging the Transformer
